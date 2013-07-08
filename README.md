@@ -1,4 +1,4 @@
-webgl_histogram
+histogram
 ===============
 
 Simple WebGL Histogram Generator
